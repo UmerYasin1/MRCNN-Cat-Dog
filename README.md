@@ -8,7 +8,7 @@
 <li>then run "pip install -r requirements.py"</li>
 <li>Chnage dataset folder with your data and place your annoate json files in same way as we did</li>  
 <li>Open custom.py file and chnage dir_path and labels arguments in all code</li> 
-<li>Then on cmd open "python custom.py"</li>
+<li>Then on cmd run "python custom.py"</li>
 <li> After training you can open pridiction.py file and in same way chnage dir path or lables arugments in code and place your test image path</li> 
 <li>After that on cmd run "python pridiction.py" </li>    
 </ol>
