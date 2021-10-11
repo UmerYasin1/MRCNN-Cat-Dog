@@ -14,3 +14,7 @@
 </ol>
 
 ### Congratulations You have done with M-RCNN
+
+https://github.com/matterport/Mask_RCNN/issues/633
+https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/config.py
+https://user-images.githubusercontent.com/11159388/40920244-43815366-680c-11e8-9a7d-d3bed3c6f8f0.png
